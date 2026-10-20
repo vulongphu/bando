@@ -1,0 +1,134 @@
+{
+  "units": 14,
+  "area_km2": 76.77,
+  "households": 8879,
+  "population": 39920,
+  "features": [
+    {
+      "name": "ấp 3",
+      "source_name": "Ấp 3",
+      "area_km2": 1.76,
+      "households": 539,
+      "population": 2407,
+      "density": 1367.6,
+      "people_per_household": 4.47
+    },
+    {
+      "name": "ấp 5",
+      "source_name": "Ấp 5",
+      "area_km2": 1.68,
+      "households": 605,
+      "population": 2637,
+      "density": 1569.6,
+      "people_per_household": 4.36
+    },
+    {
+      "name": "ấp Nước Mặn 2",
+      "source_name": "Ấp Nước Mặn 2",
+      "area_km2": 6.06,
+      "households": 505,
+      "population": 2314,
+      "density": 381.8,
+      "people_per_household": 4.58
+    },
+    {
+      "name": "ấp Kinh Ngang",
+      "source_name": "Ấp Kinh Ngang",
+      "area_km2": 4.51,
+      "households": 421,
+      "population": 2558,
+      "density": 567.2,
+      "people_per_household": 6.08
+    },
+    {
+      "name": "ấp Tân Lập",
+      "source_name": "Ấp Tân Lập",
+      "area_km2": 2.52,
+      "households": 541,
+      "population": 2256,
+      "density": 895.2,
+      "people_per_household": 4.17
+    },
+    {
+      "name": "ấp Phú Đức",
+      "source_name": "Ấp Phú Đức",
+      "area_km2": 9.56,
+      "households": 616,
+      "population": 2838,
+      "density": 296.9,
+      "people_per_household": 4.61
+    },
+    {
+      "name": "ấp Bưng Thum",
+      "source_name": "Ấp Bưng Thum",
+      "area_km2": 6.42,
+      "households": 595,
+      "population": 2622,
+      "density": 408.4,
+      "people_per_household": 4.41
+    },
+    {
+      "name": "ấp Bưng Long",
+      "source_name": "Ấp Bưng Long",
+      "area_km2": 5.07,
+      "households": 463,
+      "population": 2053,
+      "density": 404.9,
+      "people_per_household": 4.43
+    },
+    {
+      "name": "ấp Sóc Mới",
+      "source_name": "Ấp Sóc Mới",
+      "area_km2": 3.84,
+      "households": 551,
+      "population": 2483,
+      "density": 646.6,
+      "people_per_household": 4.51
+    },
+    {
+      "name": "ấp 4",
+      "source_name": "Ấp 4",
+      "area_km2": 2.48,
+      "households": 721,
+      "population": 3061,
+      "density": 1234.3,
+      "people_per_household": 4.25
+    },
+    {
+      "name": "ấp Khoan Tang",
+      "source_name": "Ấp Khoan Tang",
+      "area_km2": 9.18,
+      "households": 995,
+      "population": 4546,
+      "density": 495.2,
+      "people_per_household": 4.57
+    },
+    {
+      "name": "ấp 1",
+      "source_name": "Ấp 1",
+      "area_km2": 5.89,
+      "households": 568,
+      "population": 2509,
+      "density": 426.0,
+      "people_per_household": 4.42
+    },
+    {
+      "name": "ấp 2",
+      "source_name": "Ấp 2",
+      "area_km2": 5.69,
+      "households": 829,
+      "population": 3345,
+      "density": 587.9,
+      "people_per_household": 4.03
+    },
+    {
+      "name": "ấp Nước Mặn 1",
+      "source_name": "Ấp Nước Mặn 1",
+      "area_km2": 12.11,
+      "households": 930,
+      "population": 4291,
+      "density": 354.3,
+      "people_per_household": 4.61
+    }
+  ]
+}
